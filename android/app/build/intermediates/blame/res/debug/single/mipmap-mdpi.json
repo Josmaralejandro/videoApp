@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\JosmarAlejandro\\proyectos\\cursos\\react-navigation\\platziVideoApp2\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\JosmarAlejandro\\proyectos\\cursos\\react-navigation\\platziVideoApp2\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\JosmarAlejandro\\proyectos\\personal\\videoApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\JosmarAlejandro\\proyectos\\personal\\videoApp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

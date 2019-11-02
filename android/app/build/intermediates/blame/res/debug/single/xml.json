@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\JosmarAlejandro\\proyectos\\cursos\\react-navigation\\platziVideoApp2\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\JosmarAlejandro\\proyectos\\cursos\\react-navigation\\platziVideoApp2\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\JosmarAlejandro\\proyectos\\personal\\videoApp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\JosmarAlejandro\\proyectos\\personal\\videoApp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.55.4\\res\\xml\\preferences.xml"
     }
 ]
